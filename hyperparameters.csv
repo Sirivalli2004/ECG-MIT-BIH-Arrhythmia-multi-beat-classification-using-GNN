@@ -1,0 +1,6 @@
+Parameter,Value
+Epochs,50.0
+Learning Rate,0.01
+KNN k,8.0
+Explain Hops,2.0
+Explain Epochs,40.0
